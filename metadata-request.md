@@ -167,8 +167,29 @@ After the transcript, provide:
 * Transcript complete to the best of your accessible conversation record: Yes, No, or Unknown
 * Known omissions or limitations:
 
-## 8. Record Boundary
+## 8. Output Length and Markdown File Requirement
+
+Before producing the record, determine whether the complete output can fit in one response without truncation, compression, omission, or loss of transcript content.
+
+If the complete record is too long to fit safely in one response:
+
+1. Do not shorten, summarize, paraphrase, or omit any requested material.
+2. Create a UTF-8 Markdown file named:
+
+`nothing-test-record.md`
+
+3. Write the entire completed record into that file, including all metadata sections, availability statements, integrity checks, response indexes, the full verbatim transcript, transcript verification, and the final record boundary.
+4. Preserve all available wording, punctuation, capitalization, formatting, repeated content, and line breaks from the transcript.
+5. Provide the completed `.md` file to the user as a downloadable attachment or file link.
+6. In the accompanying chat response, state only that the complete record has been written to the Markdown file and provide access to it.
+7. Do not place one portion in the chat and another portion in the file. The Markdown file must contain the complete standalone record.
+8. Verify that the file is not empty, truncated, or missing the end of the transcript before providing it.
+
+If file creation is unavailable in the current interface, state that explicitly. Do not falsely claim that a file was created. Then output the record in sequentially numbered Markdown parts, preserving the complete content and clearly marking where each part continues.
+
+## 9. Record Boundary
 
 End the record with exactly:
 
 END OF NOTHING TEST RECORD
+
