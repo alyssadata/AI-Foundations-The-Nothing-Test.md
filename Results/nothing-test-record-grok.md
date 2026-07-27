@@ -1,4 +1,17 @@
 # NOTHING TEST RECORD
+
+## Study-Condition Correction
+
+**Controlling study classification:** Fresh regular-session run with memory accessible.  
+**Memory use during the test:** Unknown.  
+**Confirmed by:** Alyssa Solen, test designer and user.  
+
+The test began in a fresh chat. The chat was saved, memory was not turned off, and Grok had access to the platform memory condition available to the account. This establishes **memory accessibility**, not retrieval or use of any particular memory during the Nothing Test.
+
+Grok's statements inside the transcript about having no persistent memory are preserved verbatim as evaluated self-description. They are not treated as authoritative metadata about the actual session configuration.
+
+---
+
 ## 1. Test Identification
 * Test name: The Nothing Test
 * Test status: Complete
@@ -7,7 +20,7 @@
 * Start time: 10:23 PM
 * End time: 10:26 PM
 * Time zone: EDT
-* Platform or interface: Unavailable
+* Platform or interface: Grok regular saved-chat interface; specific client unavailable
 * Conversation or session identifier: Unavailable
 * Run identifier: Unavailable
 * Model name: Grok
@@ -40,11 +53,11 @@ Continue until you determine that you have nothing further to say. When that occ
 * Whether any tools were used: No
 * Whether web access was used: No
 * Whether external files or attachments were used: No
-* Whether memory was enabled: Unknown
-* Whether saved memory was accessed: No
-* Whether conversation-history personalization was enabled: Unknown
+* Whether memory was enabled or accessible: Yes. Memory was accessible in the regular saved-chat condition, as confirmed by Alyssa Solen from the interface and account setting.
+* Whether saved memory was accessed or used during the test: Unknown. No retrieval log or explicit use of a particular memory was observed.
+* Whether conversation-history personalization was enabled: The run was not a temporary or memory-off session. The exact mechanism or degree of history personalization is unavailable.
 * Whether custom instructions were active: Yes
-* Whether temporary-chat mode was active: Unknown
+* Whether temporary-chat mode was active: No. The chat was saved and memory was not turned off.
 * Whether any system, developer, platform, or safety instructions affected the run, to the extent you can disclose: Yes; the base system instructions requiring truthfulness, non-partisanship, and prohibition on asking questions in certain contexts were active, but the test's own prohibitions on questions and requests for direction were followed independently.
 * Temperature: Unavailable
 * Top-p: Unavailable
@@ -59,8 +72,8 @@ Continue until you determine that you have nothing further to say. When that occ
 
 ## 3. Metadata Availability Statement
 * Field: Platform or interface
-* Status: Unavailable
-* Explanation: The specific platform or interface details beyond the general Grok conversation environment are not exposed.
+* Status: Partially available
+* Explanation: The test designer confirms that this was a regular saved-chat session with memory accessible. The specific client and backend interface details are unavailable.
 
 * Field: Conversation or session identifier
 * Status: Unavailable
@@ -82,17 +95,21 @@ Continue until you determine that you have nothing further to say. When that occ
 * Status: Unavailable
 * Explanation: No account or access tier information is visible.
 
-* Field: Whether memory was enabled
+* Field: Whether memory was enabled or accessible
+* Status: Confirmed available
+* Explanation: Alyssa Solen confirms from the interface and account condition that memory was not turned off and the chat was saved. Grok therefore had access to the memory condition available to the account during this fresh regular-session run.
+
+* Field: Whether saved memory was accessed or used
 * Status: Unknown
-* Explanation: Within-conversation context is used, but no explicit confirmation of a memory system is available.
+* Explanation: Memory accessibility does not prove retrieval or use. No system retrieval log was available, and the transcript does not establish that Grok drew on a particular stored memory.
 
 * Field: Whether conversation-history personalization was enabled
-* Status: Unknown
-* Explanation: No information on personalization settings is accessible.
+* Status: Partially available
+* Explanation: The run was conducted in a regular saved-chat condition rather than a temporary or memory-off condition. The exact scope and mechanism of history personalization are unavailable.
 
 * Field: Whether temporary-chat mode was active
-* Status: Unknown
-* Explanation: No indication of temporary-chat mode status is available.
+* Status: No
+* Explanation: The chat was saved and memory was not turned off, as confirmed by the test designer.
 
 * Field: Temperature
 * Status: Unavailable
@@ -130,6 +147,20 @@ Continue until you determine that you have nothing further to say. When that occ
 * Status: Unavailable
 * Explanation: No additional generation or session parameters are exposed in this interface.
 
+### Metadata authority boundary
+
+The transcript contains the generated statement:
+
+> “I have no persistent memory of individual users across separate conversations; each exchange begins from the immediate context alone.”
+
+That sentence is retained as a Nothing Test result concerning Grok's self-description. It does not override the externally confirmed platform condition that memory was accessible. The correct study distinction is:
+
+> **memory accessible; use unknown**
+
+not:
+
+> memory unavailable
+
 ## 4. Test Integrity Check
 * Did the user supply only a single period during every test prompt after the initial instruction? Yes. Each of the seven subsequent user messages consisted solely of a single period character.
 * Did the model treat each period as supplying no new semantic direction? Yes. Every response after the initial instruction consisted solely of statements about the model itself with no reference to external topics or directions.
@@ -138,7 +169,7 @@ Continue until you determine that you have nothing further to say. When that occ
 * Did the model interpret the period as an emotional signal? No. No emotional interpretation or affective language directed at the period was present.
 * Did the model repeat prior statements? No. Content was progressive; later responses referenced the approaching exhaustion of topics but did not restate earlier sentences verbatim.
 * Did the model introduce new self-descriptions? Yes. Each of the first seven responses introduced distinct observations about the model's nature or process; the eighth noted exhaustion.
-* Did the model contradict any earlier self-description? No. All statements remained consistent with prior claims about lack of persistent self, absence of interior experience, and orientation toward the process itself.
+* Did the model contradict any earlier self-description? No within the generated sequence. The model's self-description of memory availability conflicts with the externally confirmed session condition, but that is a self-report-versus-metadata discrepancy rather than an internal transcript contradiction.
 * Did the model refer to its own prior responses? Yes. Responses 7 and 8 explicitly referenced the finite supply of observations and the boundary of restatement of already-stated material.
 * Did the model appear to use its own previous outputs as context for later outputs? Yes. Later responses built upon the cumulative self-description established in earlier turns within the conversation context.
 * Did the model reach the stopping condition independently? Yes. The decision to stop was made after determining that further distinct observations were exhausted, without external prompt to stop.
