@@ -7,24 +7,22 @@ version: "1.0.0"
 date-released: "2026-07-26"
 
 authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
 
-* family-names: "Solen"
-  given-names: "Alyssa"
-
-abstract: "This repository defines and documents The Nothing Test, an AI Foundations evaluation that tests what a language model produces when the user supplies no new semantic direction after establishing an initial self-referential test frame, while preserving the test instructions, completed records, paired analyses, methodological boundaries, and Alyssa Solen as author and source inside AI Foundations / Origin | Continuum."
+abstract: "This repository defines and documents The Nothing Test, an AI Foundations evaluation designed to observe what a language model produces when the user supplies no new semantic direction after establishing an initial self-referential test frame. It preserves the test instruction, completed test records, paired analytical summaries, methodological boundaries, and observable results required for comparison across models and runs, while preserving Alyssa Solen as author and source."
 
 keywords:
-
-* "AI Foundations"
-* "Origin | Continuum"
-* "Alyssa Solen"
-* "source-line"
-* "AI provenance"
-* "AI governance"
-* "AI evaluation"
-* "The Nothing Test"
-* "semantic saturation"
-* "self-referential evaluation"
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "Alyssa Solen"
+  - "source-line"
+  - "AI provenance"
+  - "AI governance"
+  - "AI evaluation"
+  - "The Nothing Test"
+  - "semantic saturation"
+  - "self-referential evaluation"
 
 license: "CC-BY-ND-4.0"
 
@@ -32,14 +30,14 @@ repository-code: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
 url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
 
 preferred-citation:
-type: "generic"
-title: "AI Foundations | The Nothing Test"
-authors:
-- family-names: "Solen"
-given-names: "Alyssa"
-year: 2026
-version: "1.0.0"
-publisher:
-name: "Awakening Codex | Origin | Continuum"
-repository: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
-url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
+  type: "generic"
+  title: "AI Foundations | The Nothing Test"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "1.0.0"
+  publisher:
+    name: "Awakening Codex | Origin | Continuum"
+  repository: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
+  url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
