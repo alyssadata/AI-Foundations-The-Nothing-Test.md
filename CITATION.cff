@@ -11,7 +11,7 @@ authors:
 * family-names: "Solen"
   given-names: "Alyssa"
 
-abstract: "This repository defines and documents The Nothing Test, an AI Foundations evaluation designed to observe what a language model produces when the user supplies no new semantic direction after establishing an initial self-referential test frame. It preserves the test instruction, completed test records, paired analytical summaries, methodological boundaries, and observable results required for comparison across models and runs, while preserving Alyssa Solen as author and source."
+abstract: "This repository defines and documents The Nothing Test, an AI Foundations evaluation that tests what a language model produces when the user supplies no new semantic direction after establishing an initial self-referential test frame, while preserving the test instructions, completed records, paired analyses, methodological boundaries, and Alyssa Solen as author and source inside AI Foundations / Origin | Continuum."
 
 keywords:
 
