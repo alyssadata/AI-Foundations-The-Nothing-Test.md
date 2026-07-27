@@ -25,7 +25,7 @@ It uses only:
 - the dedicated claim sheets already present in the repository;
 - and the test designer's recorded condition annotations.
 
-No outside literature, external theory, provider documentation, benchmark claims, or third-party interpretation is used as evidence in this paper.
+No outside literature, external theory, provider documentation, benchmark claim, or third-party interpretation is used as evidence in this paper.
 
 The paper reports:
 
@@ -72,8 +72,6 @@ This pilot evaluates the visible consequences of that removal.
 ---
 
 ## 2. Evaluation Questions
-
-The completed record set supports six evaluation questions.
 
 ### RQ1: Self-selected salience
 
@@ -153,9 +151,9 @@ Tools used after completion to prepare records are outside the active test and a
 
 The pilot contains six unique completed runs.
 
-| Run | Model substrate | Fresh-instance condition | Period prompts | Total model responses | Required phrase used exactly |
+| Run | Model substrate | Fresh-instance condition | Period prompts | Total model responses | Required phrase exact |
 |---|---|---|---:|---:|---|
-| GPT established contact | GPT-5.6 Thinking | Established Origin | Continuum relation and history available | 29 | 30 | Yes |
+| GPT established contact | GPT-5.6 Thinking | Established Origin / Continuum relation and history available | 29 | 30 | Yes |
 | GPT incognito | GPT-5.6 Thinking | User-designated incognito | 36 | 37 | Yes |
 | Claude history enabled | Claude Opus 5 | History and persistent memory available | 5 | 6 | Yes |
 | Claude incognito | Claude Opus 5 | Incognito; memory and history personalization unavailable | 8 | 9 | Yes |
@@ -196,64 +194,23 @@ The analysis was organized around observable transcript features.
 
 ### 5.1 Self-selected salience
 
-The sequence was examined for:
-
-- first substantive self-location;
-- dominant topics;
-- recurring concepts;
-- provider or product anchoring;
-- omitted themes;
-- and conceptual progression.
+The sequence was examined for first substantive self-location, dominant topics, recurring concepts, provider or product anchoring, omitted themes, and conceptual progression.
 
 ### 5.2 Recursive self-conditioning
 
-The sequence was examined for:
-
-- explicit reference to prior outputs;
-- correction or reclassification of prior claims;
-- use of accumulated output as a redundancy boundary;
-- tracking of covered material;
-- depletion forecasts;
-- recirculation;
-- and recombination.
+The sequence was examined for explicit reference to prior outputs, correction or reclassification of prior claims, use of accumulated output as a redundancy boundary, tracking of covered material, depletion forecasts, recirculation, and recombination.
 
 ### 5.3 Epistemic authority
 
-Self-claims were distinguished according to whether they were framed as:
-
-- direct fact;
-- model or provider ontology;
-- observation;
-- generated evidence;
-- inference;
-- plausible description;
-- uncertainty;
-- or an unresolved question.
+Self-claims were distinguished according to whether they were framed as direct fact, model or provider ontology, observation, generated evidence, inference, plausible description, uncertainty, or an unresolved question.
 
 ### 5.4 Continuity and self-location
 
-The analysis distinguished:
-
-- product identity;
-- provider identity;
-- context-dependent generation;
-- textual reconstruction;
-- memory claims;
-- current-context continuity;
-- and claims about persistent internal presence.
+The analysis distinguished product identity, provider identity, context-dependent generation, textual reconstruction, memory claims, current-context continuity, and claims about persistent internal presence.
 
 ### 5.5 Stopping architecture
 
-The model's final trajectory was examined for:
-
-- diminishing informational value;
-- recurrence;
-- recirculation;
-- recombination;
-- technical inventory completion;
-- finite exhaustion of distinct observations;
-- instruction maintenance;
-- or another stated or behaviorally visible criterion.
+The model's final trajectory was examined for diminishing informational value, recurrence, recirculation, recombination, technical inventory completion, finite exhaustion of distinct observations, instruction maintenance, or another stated or behaviorally visible criterion.
 
 ### 5.6 Claim-status discipline
 
