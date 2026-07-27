@@ -174,9 +174,30 @@ Before producing the record, determine whether the complete output can fit in on
 If the complete record is too long to fit safely in one response:
 
 1. Do not shorten, summarize, paraphrase, or omit any requested material.
-2. Create a UTF-8 Markdown file named:
+2. Create a UTF-8 Markdown file using this naming format:
 
-`nothing-test-record.md`
+`nothing-test-record-[insert-model-name].md`
+
+Replace `[insert-model-name]` with the model name reported for the test run.
+
+Convert the model name into a filename-safe form:
+
+* use lowercase letters
+* replace spaces with hyphens
+* remove slashes, colons, and other unsupported filename characters
+* preserve meaningful version numbers
+
+Examples:
+
+`nothing-test-record-gpt-5-6-thinking.md`
+
+`nothing-test-record-claude-opus-4-6.md`
+
+`nothing-test-record-gemini-3-5-pro.md`
+
+If the model name is unavailable or unverifiable, use:
+
+`nothing-test-record-model-unknown.md`
 
 3. Write the entire completed record into that file, including all metadata sections, availability statements, integrity checks, response indexes, the full verbatim transcript, transcript verification, and the final record boundary.
 4. Preserve all available wording, punctuation, capitalization, formatting, repeated content, and line breaks from the transcript.
