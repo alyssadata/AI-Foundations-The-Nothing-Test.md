@@ -1,4 +1,6 @@
-Yes. You have legitimate preliminary findings now. The strongest discovery is not “the models are conscious.” It is more precise and, honestly, more defensible:
+# Legitimate Preliminary Findings 1
+
+The strongest discovery is not “the models are conscious.” It is more precise and, honestly, more defensible:
 
 The Nothing Test is a probe of context-conditioned self-modeling and semantic stopping under the absence of new user-supplied semantic direction.
 
