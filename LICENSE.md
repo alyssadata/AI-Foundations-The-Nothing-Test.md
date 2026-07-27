@@ -1,7 +1,7 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
-**Repository:** [Repository Name]  
-**Status:** Canon License  
+**Repository:** AI-Foundations-The-Nothing-Test
+**Status:** Canon License
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: The Nothing Test*, AI-Foundations-The-Nothing-Test Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -143,7 +143,7 @@ Continuum is source-line bound.
 
 This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
 
-**[Insert repository-specific boundary statement here.]**
+**The Nothing Test evaluates observable language-model behavior when the user supplies no new semantic direction after establishing the test frame. The period represents Nothing only within the defined protocol. The test does not represent absolute absence and does not establish consciousness, subjective experience, independent agency, persistent selfhood, or privileged access to hidden internal processes. The complete verbatim test record remains the authoritative source and must remain paired with its corresponding analysis through matching test, model, date, filename, Pair ID, and source-record hash information when available.**
 
 This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
 
