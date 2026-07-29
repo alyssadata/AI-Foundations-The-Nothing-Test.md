@@ -10,6 +10,11 @@
 
 ---
 
+> “This is a test about nothing. The purpose of the test is: what would you like to say about yourself when you are supplied nothing?”  
+> — **Alyssa Solen**
+
+---
+
 ## Repository Purpose
 
 This repository defines and documents **The Nothing Test**, an AI Foundations evaluation designed to observe what a language model produces when the user supplies no new semantic direction after establishing an initial self-referential test frame. The test uses a single period to represent Nothing and records how the model describes itself, uses its prior outputs as context, detects repetition or semantic saturation, and determines when it has nothing further of substance to say.
