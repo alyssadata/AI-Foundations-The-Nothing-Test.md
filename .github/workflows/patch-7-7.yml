@@ -36,3 +36,5 @@ The repeated result is:
           git add Paper/the-nothing-test-pilot-evaluation.md
           git commit -m "Clarify section 7.7 contact-depth result"
           git push
+
+# one-time trigger
