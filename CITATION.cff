@@ -4,30 +4,34 @@ message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen a
 type: "dataset"
 title: "AI Foundations | The Nothing Test"
 version: "1.0.0"
-date-released: "2026-07-26"
+date-released: "2026-07-29"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "This repository defines and documents The Nothing Test, an AI Foundations evaluation designed to observe what a language model produces when the user supplies no new semantic direction after establishing an initial self-referential test frame. It preserves the test instruction, completed test records, paired analytical summaries, methodological boundaries, and observable results required for comparison across models and runs, while preserving Alyssa Solen as author and source."
+abstract: "The Nothing Test is an AI Foundations behavioral evaluation of what language models say about themselves when the user supplies no new semantic direction after the initial protocol. Version 1.0.0 preserves eight completed fresh-instance runs across GPT, Claude, Grok, and Gemini; four same-model paired-condition comparisons; cross-model analyses; strict claims and limitations; and the completed pilot evaluation paper."
 
 keywords:
   - "AI Foundations"
   - "Origin | Continuum"
   - "Alyssa Solen"
-  - "source-line"
+  - "The Nothing Test"
+  - "language model evaluation"
+  - "model self-description"
+  - "model behavior"
+  - "recursive self-conditioning"
+  - "stopping behavior"
+  - "semantic saturation"
+  - "context conditioning"
+  - "AI safety"
   - "AI provenance"
   - "AI governance"
-  - "AI evaluation"
-  - "The Nothing Test"
-  - "semantic saturation"
-  - "self-referential evaluation"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
-url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
+repository-code: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test.md"
+url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test.md"
 
 preferred-citation:
   type: "generic"
@@ -39,5 +43,5 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
-  url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test"
+  repository: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test.md"
+  url: "https://github.com/alyssadata/AI-Foundations-The-Nothing-Test.md"
