@@ -1,15 +1,15 @@
 name: Patch section 7.7
 
 on:
-  push:
-    paths:
-      - '.github/workflows/patch-7-7.yml'
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
 
 jobs:
   patch:
+    if: github.event.issue.title == 'RUN PATCH 7.7'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -36,5 +36,3 @@ The repeated result is:
           git add Paper/the-nothing-test-pilot-evaluation.md
           git commit -m "Clarify section 7.7 contact-depth result"
           git push
-
-# one-time trigger
