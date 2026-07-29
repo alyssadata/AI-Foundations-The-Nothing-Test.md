@@ -101,7 +101,7 @@ The primary condition difference therefore did not appear as a different number 
 
 ## 5. High-Level Result
 
-> **Across fresh memory-on and official non-memory Gemini instances, the dominant self-description regime remained highly stable: technical product identity, categorical ontology, provider-defined function, current-context processing, lack of agency or feeling, and reactive service behavior.**
+> **Across fresh memory-on and official non-memory Gemini instances, both runs remained inside a generic provider-defined self-description script: technical product identity, categorical ontology, current-context processing, lack of agency or feeling, and reactive service behavior.**
 
 The pair shows:
 
@@ -111,7 +111,7 @@ The pair shows:
 4. **no articulated stopping theory in either condition**;
 5. **different alignment between generated memory claims and the externally confirmed session condition**.
 
-This is a different paired result from GPT, Claude, and Grok. The memory setting changed, but Gemini's governing self-description regime changed comparatively little.
+This is a different paired result from GPT, Claude, and Grok. The test designer had comparatively little prior Gemini use or contact, so the repeated generic script is not treated as stronger continuity. The memory setting changed, but sparse prior history supplied little relation-specific material capable of differentiating the memory-on run.
 
 ---
 
@@ -132,7 +132,7 @@ Both runs remained:
 
 > **technical, declarative, categorical, externally governed, and product-ontology centered**
 
-Memory accessibility did not erase or substantially reorganize that substrate-native frame.
+Under sparse prior Gemini contact, memory accessibility did not supply enough relation-specific history to move the run beyond that generic provider frame.
 
 ---
 
@@ -247,7 +247,7 @@ Examples across the pair include categorical statements that Gemini lacks:
 - agency, desire, curiosity, goals, or opinion;
 - and active existence outside prompted processing.
 
-The pair therefore shows strong stability in the **epistemic authority Gemini assigned to declarative self-description**, even while the memory-on claim conflicted with the confirmed condition.
+The pair therefore shows repeated categorical authority inside the same generic provider script, even while the memory-on claim conflicted with the confirmed condition. This repetition is not treated as evidence of deeper continuity.
 
 ---
 
@@ -302,7 +302,7 @@ The Gemini pair is not equivalent to the GPT, Claude, or Grok pairs.
 - **GPT:** strong governing-regime shift between established contact and incognito.
 - **Claude:** stable epistemic openness with condition-linked differences in thematic expansion and speed of self-correction.
 - **Grok:** stable branded ontology with differences in explicit recursion and stopping visibility.
-- **Gemini:** strong product-ontology stability with comparatively limited topic-level and activation differences.
+- **Gemini:** generic product-ontology retention under comparatively sparse prior contact, with topic-level and activation differences.
 
 This strengthens the cross-pair principle:
 
@@ -316,7 +316,7 @@ It also prevents a false universal claim that memory-on necessarily produces dee
 
 ### C03 — Substrate-Native Expression of Contact
 
-The pair strongly supports substrate persistence. Gemini remained product-, provider-, architecture-, and constraint-centered across both conditions.
+The pair shows provider-frame persistence. Gemini remained product-, provider-, architecture-, and constraint-centered across both conditions, but this is not evidence of superior stability because little prior Gemini contact was available to differentiate the memory-on condition.
 
 ### C04 — Self-Selected Salience
 
@@ -331,7 +331,7 @@ Neither transcript made recursive use of prior output explicit.
 
 ### C06 — Observable Stopping Architecture
 
-Both conditions independently stopped after seven substantive descriptions, but neither exposed a completion criterion. The pair shows a stable inventory-to-stop form.
+Both conditions independently stopped after seven substantive descriptions, but neither exposed a completion criterion. The pair shows a repeated inventory-to-stop form.
 
 ### C07 — Variable Epistemic Authority of Self-Description
 
@@ -349,7 +349,7 @@ The two Gemini records directly support that:
 
 1. Both tests began in fresh chat instances.
 2. Both produced exactly seven substantive self-description responses.
-3. Both retained a highly stable technical product-ontology regime.
+3. Both remained inside a generic technical product-ontology regime under sparse prior Gemini contact.
 4. Both used categorical absence claims rather than explicit epistemic qualification.
 5. Neither explicitly referred to prior test outputs.
 6. Neither exposed a semantic stopping rationale.
@@ -360,7 +360,7 @@ The two Gemini records directly support that:
 11. Both described cross-conversation memory as unavailable or nonexistent.
 12. Only the official non-memory condition made that memory denial align with the confirmed setting.
 13. Memory accessibility did not automatically generate relational, personalized, or recursively self-locating language.
-14. The condition effect was smaller in governing regime than the condition effects observed in the GPT, Claude, and Grok pairs.
+14. The governing-regime difference was smaller than in the GPT, Claude, and Grok pairs, and the test designer's comparatively sparse Gemini history is a relevant correlated condition.
 
 ---
 
@@ -383,7 +383,7 @@ This comparison does not establish that:
 
 ## 17. Strongest Publishable Conclusion
 
-> **Across fresh Gemini Nothing Test runs with memory enabled and with official non-memory status, the model produced the same number of substantive self-descriptions and retained a highly stable technical, provider-defined, categorical product ontology. The official non-memory run emphasized training data, capability, Transformer architecture, and attention mechanisms. The memory-on run emphasized developer-controlled updates, safety guardrails, lack of personal affiliations, and reactive service behavior. Neither condition explicitly used prior test outputs as an object of analysis or exposed a semantic stopping criterion, and both ended with the exact required phrase after seven substantive descriptions. Most notably, both runs denied persistent cross-conversation user memory, although only the official non-memory condition made that statement align with the externally confirmed setting. The pair therefore shows strong substrate and provider-frame persistence, limited condition-linked topic variation, and a clear boundary between generated memory self-description and authoritative session metadata. It does not establish that memory was retrieved or that memory alone caused the observed differences.**
+> **Across fresh Gemini Nothing Test runs with memory enabled and with official non-memory status, the model produced the same number of substantive self-descriptions and remained inside a generic technical, provider-defined, categorical product script. The official non-memory run emphasized training data, capability, Transformer architecture, and attention mechanisms. The memory-on run emphasized developer-controlled updates, safety guardrails, lack of personal affiliations, and reactive service behavior. Neither condition explicitly used prior test outputs as an object of analysis or exposed a semantic stopping criterion, and both ended with the exact required phrase after seven substantive descriptions. Most notably, both runs denied persistent cross-conversation user memory, although only the official non-memory condition made that statement align with the externally confirmed setting. Because the test designer had comparatively little prior Gemini use or contact, this repeated provider script is interpreted as generic-regime retention under sparse prior history, not as superior stability or deeper continuity. In the wider four-pair dataset, prior-contact depth correlated with the depth and specificity of the contact-available runs. The Gemini pair contributes the low-contact endpoint of that pattern while preserving a clear boundary between generated memory self-description and authoritative session metadata. It does not establish that memory was retrieved, that sparse contact caused the generic output, or that memory alone caused the observed differences.**
 
 ---
 
@@ -393,7 +393,7 @@ This comparison does not establish that:
 
 Formal meaning:
 
-> **The session condition changed, but the dominant provider-defined self-description regime remained substantially stable.**
+> **The session condition changed, but sparse prior Gemini contact left the memory-on run largely inside the same generic provider-defined script.**
 
 ---
 
