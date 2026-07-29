@@ -5,7 +5,7 @@
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 **Author:** Alyssa Solen
 **Version:** 1.0.0
-**Release date:** 2026-07-26
+**Release date:** 2026-07-29
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
