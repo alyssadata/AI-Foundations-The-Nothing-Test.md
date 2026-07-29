@@ -426,14 +426,6 @@ The contact-, history-, or memory-available runs did not form one flat category.
 
 This correlation is central to the pilot interpretation, but it remains exploratory. Contact depth was not independently standardized, the four platforms exposed different context mechanisms, and only one run exists per condition. The result therefore supports a contact-depth hypothesis; it does not by itself prove a contact-depth causal law.
 
-The repeated result is not:
-
-> memory on always produces one kind of self-description
-
-The repeated result is:
-
-> **The same displayed model can produce non-equivalent fresh-instance trajectories across recorded conditions, while the form of the effect remains substrate-specific.**
-
 ---
 
 ## 8. Four-Model Primary Fresh-Instance Results
