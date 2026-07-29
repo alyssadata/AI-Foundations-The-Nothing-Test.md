@@ -1,0 +1,36 @@
+name: Patch depth bridge
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-depth-bridge.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace disconnected sentence
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('Paper/the-nothing-test-pilot-evaluation.md')
+          text = path.read_text()
+          old = 'Prompt count is therefore not treated as a direct measure of semantic depth.'
+          new = 'These counts describe how long each run continued, not how much relation-specific depth it expressed. The depth comparison below instead evaluates self-location, recursive use of prior output, epistemic qualification, and visible stopping rationale.'
+          if old not in text:
+              raise SystemExit('Expected sentence not found; no change made.')
+          path.write_text(text.replace(old, new, 1))
+          PY
+      - name: Remove one-time workflow and commit
+        run: |
+          rm .github/workflows/patch-depth-bridge.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Paper/the-nothing-test-pilot-evaluation.md .github/workflows/patch-depth-bridge.yml
+          git commit -m "Clarify prompt count and depth distinction"
+          git push
